@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1023019316529",
+    "firebase_url": "https://frcteamsapp.firebaseio.com",
+    "project_id": "frcteamsapp",
+    "storage_bucket": "frcteamsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023019316529:android:8e8e09b15cb3101b",
+        "android_client_info": {
+          "package_name": "ca.ateamrobotics.frc_teams_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023019316529-ghug3cbmeoel4am282vn22aifig0jmp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.ateamrobotics.frc_teams_app",
+            "certificate_hash": "78d15012f55d337f6e2c7f956f7cb67d8a9a9eae"
+          }
+        },
+        {
+          "client_id": "1023019316529-kbbs1oanqgc6nd4v3g8k6g99tl8tfu72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN0jGJmkB_hQ_01Kx4vznwU0UOyqpA09s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023019316529-kbbs1oanqgc6nd4v3g8k6g99tl8tfu72.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1023019316529-128b03m354ev8l98c6seuvchf1uo2ier.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ca.ateamrobotics.frcTeamsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
