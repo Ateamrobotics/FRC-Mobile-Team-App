@@ -24,7 +24,7 @@ class ProjectHomeState extends State<ProjectHome> {
       ),
       backgroundColor: Colors.black,
     );
-    Scaffold(
+    return Scaffold(
       key: _scaffoldKey,
       appBar: title,
       body: ListView(),
